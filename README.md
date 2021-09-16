@@ -46,7 +46,9 @@
 ![Maximilian Sören Pollak Github Stats](https://github-readme-stats-maximiliansoerenpollak.vercel.app/api?username=maximiliansoerenpollak&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximiliansoerenpollak)](https://github.com/maximiliansoerenpollak/github-readme-stats)
 <!--START_SECTION:waka-->
-[![Maximilian Sören Pollak stats](https://github-readme-stats.vercel.app/api/wakatime?username=maximiliansoerenpollak)](https://github.com/maximiliansoerenpollak/github-readme-stats)
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
