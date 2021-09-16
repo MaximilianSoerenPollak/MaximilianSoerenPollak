@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maximilian Sören Pollak</h1>
 <h3 align="center">an aspiring Python Software Engineer | Backend Developer from Germany</h3>
+<h4 align="center">if you know of a position that could be interesting, hit me up.</h4>
+
+---
 
 - 🔭 I’m currently working on [Divipy-Website](www.github.com/maximiliansoerenpollak/divipy-website)
 
@@ -20,6 +23,7 @@
 - 📄 Know about my experiences [https://mspportfolio.herokuapp.com](https://mspportfolio.herokuapp.com)
 
 - ⚡ Fun fact **I used to be very good at bowling.**
+---
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
