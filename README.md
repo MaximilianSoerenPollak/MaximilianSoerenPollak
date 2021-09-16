@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Javascript | I want to learn to understand it better**
 
-- 👨‍💻 All of my projects are available at [https://mspportfolio.herokuapp.com](https://mspportfolio.herokuapp.com)
+- 👨‍💻 All of my projects are available at [www.msoerenpollak.com](https://msoerenpollak.com)
 
 - 📝 I regularly write articles on [https://msoerenpollak.medium.com](https://msoerenpollak.medium.com)
 
