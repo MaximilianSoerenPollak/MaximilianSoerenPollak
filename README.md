@@ -23,6 +23,8 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Investing with pythons help | The Idea](https://msoerenpollak.medium.com/investing-with-pythons-help-the-idea-b2ae4fc08857?source=rss-aea8b960392------2)
+- [A Simple sentiment analysis of tweets containing with the help of AWS/TWEEPY](https://msoerenpollak.medium.com/a-simple-sentiment-analysis-of-tweets-containing-with-the-help-of-aws-tweepy-7bc2e17a0c6f?source=rss-aea8b960392------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
