@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I used to be very good at bowling.**
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
