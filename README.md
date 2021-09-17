@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **contact@msoerenpollak.com**
 
-- 📄 Know about my experiences [www.msoerenpollak.com](www.msoerenpollak.com)
+- 📄 Know about my experiences [www.msoerenpollak.com](https://msoerenpollak.com)
 
 - ⚡ Fun fact **I used to be very good at bowling.**
 ---
