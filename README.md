@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **More Django, a bit of Javascript | Want to learn one of these in the future C++ , C#, GO**
 
-- 👯 I’m looking to collaborate on **Open-Source / Just hit me up if you got something interesting.**
+- 👯 I’m looking to collaborate on **Open-Source Projects / Just hit me up if you got something interesting.**
 
 - 🤝 I’m looking for help with **Javascript | I want to learn to understand it better**
 
