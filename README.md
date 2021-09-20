@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Divipy-Website](www.github.com/maximiliansoerenpollak/divipy-website)
 
-- 🌱 I’m currently learning **More Django and backeend development | Want to learn more programing languages (C/C++) and other frameworks.
+- 🌱 I’m currently learning **More Django and backeend development | Want to learn more programing languages (C/C++) and other frameworks.**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects / Just hit me up if you got something interesting.**
 
