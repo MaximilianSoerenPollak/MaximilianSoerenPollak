@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **Open-Source Projects / Just hit me up if you got something interesting.**
 
-- 🤝 I’m looking for help with **Javascript | I want to learn to understand it better**
-
 - 👨‍💻 All of my projects are available at [www.msoerenpollak.com](https://msoerenpollak.com)
 
 - 📝 I regularly write articles on [https://msoerenpollak.medium.com](https://msoerenpollak.medium.com)
