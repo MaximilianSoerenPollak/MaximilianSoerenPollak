@@ -25,6 +25,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Investing with pythons help | The execution](https://msoerenpollak.medium.com/investing-with-pythons-help-the-execution-689f9d2c3337?source=rss-aea8b960392------2)
 - [Trying to not lose hope as a Millennial](https://msoerenpollak.medium.com/trying-to-not-loose-hope-as-a-millennial-febbd69a1e17?source=rss-aea8b960392------2)
 - [Investing with pythons help | The Idea](https://msoerenpollak.medium.com/investing-with-pythons-help-the-idea-b2ae4fc08857?source=rss-aea8b960392------2)
 - [A Simple sentiment analysis of tweets containing with the help of AWS/TWEEPY](https://msoerenpollak.medium.com/a-simple-sentiment-analysis-of-tweets-containing-with-the-help-of-aws-tweepy-7bc2e17a0c6f?source=rss-aea8b960392------2)
