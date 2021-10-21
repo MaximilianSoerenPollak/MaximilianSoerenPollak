@@ -4,17 +4,18 @@
 
 ---
 
-- 🔭 I’m currently working on [Divipy-Website](www.github.com/maximiliansoerenpollak/divipy-website)
 
-- 🌱 I’m currently learning **More Django and backeend development | Want to learn more programing languages (C/C++) and other frameworks.**
+- 🌱 I’m currently learning **Data Engineering, Cloud, C# and Database-Architecture/Design**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects / Just hit me up if you got something interesting.**
 
 - 👨‍💻 All of my projects are available at [www.msoerenpollak.com](https://msoerenpollak.com)
 
+- 👨‍💻 You can also take a look at my [hackerrank profile](https://www.hackerrank.com/pollakmaximilian)
+
 - 📝 I regularly write articles on [https://msoerenpollak.medium.com](https://msoerenpollak.medium.com)
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **contact@msoerenpollak.com**
 
