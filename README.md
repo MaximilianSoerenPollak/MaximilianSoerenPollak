@@ -5,7 +5,7 @@
 ---
 
 
-- 🌱 I’m currently learning **Data Engineering, FastAPI, C# and Database-Architecture/Design**
+- 🌱 I’m currently learning **Data Engineering, FastAPI, GOlang and Database-Architecture/Design**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects / Just hit me up if you got something interesting.**
 
