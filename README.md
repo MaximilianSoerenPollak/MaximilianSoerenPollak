@@ -9,6 +9,8 @@
 
 - 👯 I’m looking to collaborate on **Open-Source Projects / Just hit me up if you got something interesting.**
 
+- 📫 If you want a coffee chat, I'm happy to have one. Let's schedule one here [Calendar](https://cal.com/msoerenpollak)
+
 - 👨‍💻 All of my projects are available at [www.msoerenpollak.com](https://msoerenpollak.com)
 
 - 👨‍💻 You can also take a look at my [hackerrank profile](https://www.hackerrank.com/pollakmaximilian)
