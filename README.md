@@ -5,7 +5,7 @@
 ---
 
 
-- 🌱 I’m currently learning **Udacity Nanodegree in Data Engineering + GOlang**
+- 🌱 I’m currently learning **Udacity Nanodegree in Data Engineering + Cloud**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects / Just hit me up if you got something interesting.**
 
