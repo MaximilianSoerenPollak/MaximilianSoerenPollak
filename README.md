@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maximilian Sören Pollak</h1>
-<h3 align="center">an aspiring Data Engineer from Germany</h3>
+<h3 align="center">a Data Engineer from Germany</h3>
 <h4 align="center">if you know of a position that could be interesting, hit me up.</h4>
 
 ---
