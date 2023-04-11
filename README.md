@@ -5,13 +5,11 @@
 ---
 
 
-- 🌱 I’m currently learning **Udacity Nanodegree in Data Engineering + Cloud**
+- 🌱 I’m currently learning **GO, by following an awesome book by Thorsten Ball on how to write an interpreter in GO.**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects / Just hit me up if you got something interesting.**
 
 - 📫 If you want a coffee chat, I'm happy to have one. Let's schedule one here [Calendar](https://cal.com/msoerenpollak)
-
-- 👨‍💻 All of my projects are available at [www.msoerenpollak.com](https://msoerenpollak.com)
 
 - 👨‍💻 You can also take a look at my [hackerrank profile](https://www.hackerrank.com/pollakmaximilian)
 
@@ -20,8 +18,6 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **contact@msoerenpollak.com**
-
-- 📄 Know about my experiences [www.msoerenpollak.com](https://msoerenpollak.com)
 
 - ⚡ Fun fact **I used to be very good at bowling.**
 ---
