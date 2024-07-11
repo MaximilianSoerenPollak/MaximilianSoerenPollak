@@ -5,17 +5,13 @@
 ---
 
 
-- 🌱 I’m currently learning **GO, by following an awesome book by Thorsten Ball on how to write an interpreter in GO.**
+- 🌱 I’m currently leanring more about how to **build Internal Developer Tools and try to extend my knowledge in GO**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects / Just hit me up if you got something interesting.**
 
 - 📫 If you want a coffee chat, I'm happy to have one. Let's schedule one here [Calendar](https://cal.com/msoerenpollak)
 
-- 👨‍💻 You can also take a look at my [hackerrank profile](https://www.hackerrank.com/pollakmaximilian)
-
-- 📝 I regularly write articles on [https://msoerenpollak.medium.com](https://msoerenpollak.medium.com)
-
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Go, or anything else you find interesting. I'm always happy to listen to enthusiastic people**
 
 - 📫 How to reach me **contact@msoerenpollak.com**
 
