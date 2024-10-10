@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently leanring more about how to **build Internal Developer Tools and try to extend my knowledge in GO**
 
-- 💡 Currently working on a time tracking CLI called `Zeit`. You can find it [here](https://github.com/MaximilianSoerenPollak/zeit)
+- 💡 Currently working on a time tracking CLI called `Zeit`. You can find it [here](https://github.com/MaximilianSoerenPollak/GoChron)
 
 - 💬 Ask me about **Python, Go, or anything else you find interesting. I'm always happy to listen to enthusiastic people**
 
