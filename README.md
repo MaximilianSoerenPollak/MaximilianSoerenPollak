@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently leanring more about how to **build Internal Developer Tools and try to extend my knowledge in GO**
 
-- 💡 Currently working on a time tracking CLI called `Zeit`. You can find it [here](https://github.com/MaximilianSoerenPollak/GoChron)
+- 💡 Currently working on a time tracking CLI called `GoChron`. You can find it [here](https://github.com/MaximilianSoerenPollak/GoChron)
 
 - 💬 Ask me about **Python, Go, or anything else you find interesting. I'm always happy to listen to enthusiastic people**
 
@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://git-scm.com/" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank"> <img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank"> <img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 <a href="https://go.dev" taget="_blank"><img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="50" height="50"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" /> </a>
 <a href="https://www.sqlite.org/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="50" height="50" /></a>
